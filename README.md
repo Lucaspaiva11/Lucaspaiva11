@@ -59,8 +59,8 @@ Busco sempre aprender novas tecnologias e aplicar em **projetos práticos**.
 ## 📊 Estatísticas do GitHub  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasCauaPaiva&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCauaPaiva&layout=compact&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucaspaiva11&show_icons=true&theme=radical" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspaiva11&layout=compact&theme=radical" height="160px"/>
 </p>
 
 ---
