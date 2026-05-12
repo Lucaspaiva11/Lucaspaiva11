@@ -1,7 +1,7 @@
-<h1 align="center">👋 Olá, eu sou o Lucas Paiva</h1>
+<h1 align="center">Olá, eu sou o Lucas Paiva</h1>
 
 <p align="center">
-  💻 Desenvolvedor de Software | 🚀 Apaixonado por Tecnologia | 🎯 Focado em Back-end & Bancos de Dados
+  💻 Desenvolvedor de Software | 🚀 Migrando para AI Engineer | 🎯 Estudando LLMs · RAG · AI Agents
 </p>
 
 ---
@@ -9,11 +9,19 @@
 ## 🧑‍💻 Sobre mim  
 Sou apaixonado por tecnologia e programação. Atualmente estou desenvolvendo aplicações web modernas com **Node.js, Express e PostgreSQL**, além de criar interfaces com **HTML, CSS e JavaScript**.  
 Busco sempre aprender novas tecnologias e aplicar em **projetos práticos**.  
+Atualmente direcionando meus estudos para **AI Engineering** — explorando LLMs, Prompt Engineering, RAG e AI Agents.
 
 ---
 
 ## 🚀 Habilidades Técnicas  
+### 🤖 AI Engineering (em estudo)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E57E0?style=for-the-badge&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-00A67E?style=for-the-badge)
 
+### 🚀 Desenvolvimento de Software
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -29,14 +37,15 @@ Busco sempre aprender novas tecnologias e aplicar em **projetos práticos**.
 
 - 🔹 [Sistema de Concursos Mega-Sena](https://github.com/SEU_USUARIO/mega-sena-app) – API em Node.js + Express + PostgreSQL  
 - 🔹 [Portfólio Pessoal](https://github.com/SEU_USUARIO/portfolio) – Site responsivo em HTML, CSS e JS  
-- 🔹 [Mini Projeto - Context & Numbers](https://github.com/SEU_USUARIO/context-numbers) – React + Context API  
+- 🔹 [Mini Projeto - Context & Numbers](https://github.com/SEU_USUARIO/context-numbers) – React + Context API
+- 🔹 🔜 [Em breve] Primeiro projeto de AI Engineering
 
 ---
 
 ## 🎓 Formação Acadêmica  
 
-- 📘 **Curso Superior em Análise e Desenvolvimento de Sistemas (ADS)**  
-- 📚 Sempre estudando novas tecnologias com foco em **desenvolvimento web**  
+- 📘 **Curso Superior em Desenvolvimento de Software Multiplataforma**  
+- 📚 Sempre estudando novas tecnologias com foco em **AI Engineer**  
 
 ---
 
@@ -53,15 +62,6 @@ Busco sempre aprender novas tecnologias e aplicar em **projetos práticos**.
 ✅ Comunicação  
 ✅ Resolução de problemas  
 ✅ Aprendizado contínuo  
-
----
-
-## 📊 Estatísticas do GitHub  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucaspaiva11&show_icons=true&theme=radical" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucaspaiva11&layout=compact&theme=radical" height="160px"/>
-</p>
 
 ---
 
