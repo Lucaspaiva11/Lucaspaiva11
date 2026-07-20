@@ -1,84 +1,193 @@
-<h1 align="center">Olá, eu sou o Lucas Paiva</h1>
+<div align="center">
 
-<p align="center">
-  💻 Desenvolvedor de Software | 🚀 Migrando para AI Engineer | 🎯 Estudando LLMs · RAG · AI Agents
+# Lucas Paiva
+
+### Software Engineering Student • Backend Developer • AI Engineering
+
+<p>
+Apaixonado por desenvolvimento de software, arquitetura de sistemas e Inteligência Artificial.
+Construindo projetos para aprender, compartilhar conhecimento e evoluir continuamente.
+</p>
+
+</div>
+
+---
+
+# 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma
+- 💻 Focado em Backend e Engenharia de IA
+- 📚 Atualmente estudando Arquitetura de Software, Estruturas de Dados, Cloud e LLMs
+- 🚀 Objetivo: construir software escalável, limpo e bem documentado
+
+---
+
+# 🛠️ Tech Stack
+
+## Linguagens
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,java,javascript" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+## Banco de Dados
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+</p>
+
+## Ferramentas
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+## Inteligência Artificial
+
+<p>
+
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/RAG-4A90E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6A5ACD?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim  
-Sou apaixonado por tecnologia e programação. Atualmente estou desenvolvendo aplicações web modernas com **Node.js, Express e PostgreSQL**, além de criar interfaces com **HTML, CSS e JavaScript**.  
-Busco sempre aprender novas tecnologias e aplicar em **projetos práticos**.  
-Atualmente direcionando meus estudos para **AI Engineering** — explorando LLMs, Prompt Engineering, RAG e AI Agents.
+# 🚀 Projetos em Destaque
+
+## 📌 Projeto 1
+
+> Pequena descrição do projeto.
+
+Tecnologias
+
+- Python
+- FastAPI
+- PostgreSQL
+- Docker
+
+🔗 <Link>
 
 ---
 
-## 🚀 Habilidades Técnicas  
-### 🤖 AI Engineering (em estudo)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6E57E0?style=for-the-badge&logo=openai&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF6B35?style=for-the-badge&logo=openai&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-00A67E?style=for-the-badge)
+## 📌 Projeto 2
 
-### 🚀 Desenvolvimento de Software
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
+> Pequena descrição.
+
+Tecnologias
+
+- TypeScript
+- Node.js
+- Express
+
+🔗 <Link>
 
 ---
 
-## 📂 Projetos em Destaque  
+## 📌 Projeto 3
 
-- 🔹 [Sistema de Concursos Mega-Sena](https://github.com/SEU_USUARIO/mega-sena-app) – API em Node.js + Express + PostgreSQL  
-- 🔹 [Portfólio Pessoal](https://github.com/SEU_USUARIO/portfolio) – Site responsivo em HTML, CSS e JS  
-- 🔹 [Mini Projeto - Context & Numbers](https://github.com/SEU_USUARIO/context-numbers) – React + Context API
-- 🔹 🔜 [Em breve] Primeiro projeto de AI Engineering
+> Pequena descrição.
 
----
+Tecnologias
 
-## 🎓 Formação Acadêmica  
+- Python
+- OpenAI
+- LangChain
 
-- 📘 **Curso Superior em Desenvolvimento de Software Multiplataforma**  
-- 📚 Sempre estudando novas tecnologias com foco em **AI Engineer**  
+🔗 <Link>
 
 ---
 
-## 🌎 Idiomas  
+# 📚 Atualmente estudando
 
-- 🇧🇷 Português: Nativo  
-- 🇺🇸 Inglês: Iniciante (em evolução)  
-
----
-
-## 🤝 Habilidades Interpessoais  
-
-✅ Trabalho em equipe  
-✅ Comunicação  
-✅ Resolução de problemas  
-✅ Aprendizado contínuo  
+- ✅ Estruturas de Dados
+- ✅ Algoritmos
+- ✅ Arquitetura de Software
+- ✅ Docker
+- ✅ Cloud
+- ✅ Engenharia de IA
+- ✅ RAG
+- ✅ Microsserviços
 
 ---
 
-## 📫 Como me encontrar  
+## 🔬 Atualmente explorando
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/lucaspaiva11" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:lcaua5786@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Lucaspaiva11" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+- FastAPI
+- Docker
+- PostgreSQL
+- LangChain
+- RAG
+- Clean Architecture
+
+---
+
+# 📈 Estatísticas
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=<usuario>&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<usuario>&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=<usuario>&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=<usuario>&theme=github-compact"/>
+
+</div>
+
+---
+
+# 🌎 Onde me encontrar
+
+<p>
+
+<a href="www.linkedin.com/in/lucaspaiva11">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:lcaua5786@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="<portfolio>">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-⭐ Inspirado na ideia de tornar o GitHub um verdadeiro portfólio!
+<div align="center">
+
+### 💡 "Always learning. Always building."
+
+</div>
