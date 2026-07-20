@@ -121,16 +121,6 @@ Tecnologias
 - ✅ RAG
 - ✅ Microsserviços
 
----
-
-## 🔬 Atualmente explorando
-
-- FastAPI
-- Docker
-- PostgreSQL
-- LangChain
-- RAG
-- Clean Architecture
 
 ---
 
@@ -138,9 +128,9 @@ Tecnologias
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=<usuario>&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaspaiva11&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<usuario>&layout=compact&theme=github_dark&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspaiva11&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
@@ -150,7 +140,7 @@ Tecnologias
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=<usuario>&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=lucaspaiva11&theme=github-dark-blue&hide_border=true"/>
 
 </div>
 
@@ -160,7 +150,7 @@ Tecnologias
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=<usuario>&theme=github-compact"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaspaiva11&theme=github-compact"/>
 
 </div>
 
@@ -170,7 +160,7 @@ Tecnologias
 
 <p>
 
-<a href="www.linkedin.com/in/lucaspaiva11">
+<a href="https://www.linkedin.com/in/lucaspaiva11/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
